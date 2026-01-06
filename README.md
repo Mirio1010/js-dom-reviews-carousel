@@ -5,7 +5,7 @@ This is a vanilla JavaScript mini project I built to practice DOM manipulation, 
 The app displays a review card with a person’s image, name, job title, and review text. Users can navigate through the reviews using **Previous**, **Next**, or **Surprise Me** buttons.
 
 ### Live Demo
-👉 [Open the Counter App](https://mirio1010.github.io/js-reviews-carousel/)
+👉 [Open the Reviews Carousel App](https://mirio1010.github.io/js-reviews-carousel/)
 ---
 
 ## What This mini Project Does
